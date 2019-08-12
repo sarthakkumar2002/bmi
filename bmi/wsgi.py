@@ -10,7 +10,7 @@ https://docs.djangoproject.com/en/2.2/howto/deployment/wsgi/
 import os
 import sys
 
-path = '/home/mrhealth/bmi'
+path = '/home/mrhealth1/bmi'
 if path not in sys.path:
     sys.path.append(path)
 
